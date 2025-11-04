@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762233373 source:c:\users\student\desktop\reat\lab task 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
